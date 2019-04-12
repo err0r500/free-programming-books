@@ -245,7 +245,6 @@
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [Programming](https://en.wikibooks.org/wiki/Category%3aComputer_programming) - Wikibooks
 * [Red Gate Books](http://www.red-gate.com/community/books/index)
-* [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 * [TechBeamers.com](http://www.techbeamers.com)
 * [TechBooksForFree.com](http://www.techbooksforfree.com)
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
@@ -845,7 +844,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Assembly Language Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage) (PDF)
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - P. A. Carter
 * [Professional Assembly Language](https://web.archive.org/web/20170329045538/http://blog.hit.edu.cn:80/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
-* [Programming from the Ground Up](http://mirror.unicorncloud.org/savannah-nongnu//pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
+* [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
 * [Software optimization resources](http://www.agner.org/optimize/) - A. Fog
 * [Wizard Code](http://vendu.twodots.nl/wizardcode.html)
